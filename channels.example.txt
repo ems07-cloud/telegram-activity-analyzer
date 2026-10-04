@@ -1,0 +1,3 @@
+# Одна ссылка или username в строке
+https://t.me/example_channel
+@example_discussion_group
